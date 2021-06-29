@@ -9,3 +9,6 @@ The purpose of this project is to apply deep learning approaches to build a pred
 3. Step 3 - Training the Model
 4. Step 4 - Model Performance Evaluation 
 
+## Authors
+Iana Ladygina
+
